@@ -1,0 +1,3 @@
+I am Learnign Python, feeling sleepy after eating rice, likely due to fatty acid in rice which caused me to sleep. 
+
+well while i had file handling chapter in my course i was not able to write the code but i think i will do it now

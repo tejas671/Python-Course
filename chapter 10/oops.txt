@@ -1,0 +1,18 @@
+Object oriented programming
+
+abstarction : hiding complex data and shoeing only essential features
+inheritance : code reuability new class acquire properties of current class or parent class
+polymorphism : entity to take multiple forms or behave different in different context
+encapsulation : hiding data or bundelling data variables and 
+
+OOP is object oriented programming
+whle generally we use functional programming
+
+class -> Template
+object -> Real Instance
+attribute -> Data
+methods -> Function insode the class
+
+classes and object
+
+class alone is nothing but when with object it perform the action 
